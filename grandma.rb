@@ -3,9 +3,3 @@ def speak_to_grandma(phrase)
     return "ILOVE YOU TOO PUMPKIN"
   end
 end
-
-
-
-
-
-
